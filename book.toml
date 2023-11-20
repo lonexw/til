@@ -1,0 +1,13 @@
+[book]
+authors = ["lonexw"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "📝 Today I Learned"
+
+
+[output.html]
+site-url = "/til/"
+git-repository-url = "https://github.com/lonexw/til"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/lonexw/til/edit/main/{path}"
