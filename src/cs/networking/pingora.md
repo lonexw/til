@@ -6,7 +6,7 @@
 - [Load Balancing with NGINX](https://www.nginx.com/blog/load-balancing-with-nginx-plus/)
 - [How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/#Inside-the-NGINX-Worker-Process)
 
-### Nginx 带来的生成环境问题
+### Nginx 带来的生产环境问题
 
 - [Nginx 的请求处理方式导致负载不均衡](https://blog.cloudflare.com/the-sad-state-of-linux-socket-balancing/)
 - [Keepalives considered harmful](https://blog.cloudflare.com/keepalives-considered-harmful/)
