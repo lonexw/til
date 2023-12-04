@@ -22,4 +22,5 @@
 
 # 创业思考
 
+- [SingleRAN：华为在无线通信技术领域的封神之战](./startup/single_ran.md)
 - [关于 TMT 的一些洞察](./startup/tmt.md)
